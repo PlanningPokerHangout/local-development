@@ -20,6 +20,11 @@
         <Content type="html"><![CDATA[     
 
 <html>
+<head>
+    <link rel="stylesheet" href="//localhost:10000/foundation/css/normalize.css">
+    <link rel="stylesheet" href="//localhost:10000/foundation/css/foundation.css">
+    <link rel="stylesheet" href="//localhost:10000/app.css">
+</head>
 <body>
 
 <script src="//plus.google.com/hangouts/_/api/v1/hangout.js"></script>
